@@ -2,4 +2,4 @@
 
 ## another Odin Project project
 
-# Live code: https://jasonau3.github.io/etch-a-sketch/
+## Live code: https://jasonau3.github.io/etch-a-sketch/
